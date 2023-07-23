@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=7D16F7&width=435&lines=Hi+there!+I+am+Laakshit!!!;Welcome+To+My+Github;Ready+To+Contribute+And+Collaborate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=7D16F7&width=435&lines=Hi+there!+I+am+Laakshit!!!;Welcome+To+My+Github;Ready+To+Contribute+And+Collaborate)](https://git.io/typing-svg)
 
 ![AcrobaticGoodnaturedBooby-size_restricted](https://github.com/laakshit-D/laakshit-D/assets/119559976/8a6b1151-3629-4019-9713-fc6e18b64fd4)
 <!--
